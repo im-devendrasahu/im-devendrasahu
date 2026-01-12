@@ -11,19 +11,17 @@
          alt="linkedin logo" />
   </a>
 
-<a href="https://devendrasahu.online/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Website&logo=hashnode&label=&color=0A0A0A&logoColor=white&style=for-the-badge"
-       height="25"
-       alt="personal website" />
-</a>
+  <a href="https://devendrasahu.online/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white"
+        height="25"
+        alt="Devendra Sahu's Portfolio" /> 
+  </a>
 
-<div align="center">
   <a href="mailto:75devendrasahu@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
          height="25"
          alt="email" />
   </a>
-</div>
 
 </div>
 
@@ -41,9 +39,9 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+## ⚙ Skills
 
-###
+### 👨‍💻 Languages and 🛠 Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="go logo"  />
@@ -52,7 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
   <img width="12" />
@@ -60,5 +58,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
-###
